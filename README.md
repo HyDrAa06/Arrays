@@ -81,3 +81,7 @@
 ### ladybug index that is outside the field, nothing happens. In the end, print all cells of the field
 ### separated by blank spaces. For each cell that has a ladybug in it print;1; and for each empty cell print
 ### ;0;. The output of the example above should be &quot;0 1 0;.
+
+
+
+### ! Задачата с калинките ме затрудни и не е напълно вярна!
